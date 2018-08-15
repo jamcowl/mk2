@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="350px" src="https://raw.githubusercontent.com/hacksurrey/2018/master/resources/logo.svg?sanitize=true">
+<img width="350px" src="/resources/logo.svg?sanitize=true">
 <br><br>
 
 [![Build Status](https://img.shields.io/travis/hacksurrey/beta.svg?style=for-the-badge)](https://travis-ci.org/hacksurrey/beta) [![license](https://img.shields.io/github/license/hacksurrey/beta.svg?style=for-the-badge)](https://github.com/hacksurrey/beta/blob/master/LICENSE) [![GitHub top language](https://img.shields.io/github/languages/top/hacksurrey/beta.svg?style=for-the-badge)]() [![Twitter Follow](https://img.shields.io/twitter/follow/hacksurrey.svg?style=for-the-badge)](https://twitter.com/hacksurrey)
