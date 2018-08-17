@@ -4,12 +4,12 @@
       <h1>Team.</h1>
     </div>
     <div class="item">
-      <img src="~resources/avatars/ted.jpg" />
-      <span class="subtitle">Ted</span>
+      <img src="https://avatars2.githubusercontent.com/u/4354770?s=460&v=4" />
+      <span class="subtitle">Dan</span>
     </div>
     <div class="item">
-      <img src="~resources/avatars/dan.jpg" />
-      <span class="subtitle">Dan</span>
+      <img src="https://avatars1.githubusercontent.com/u/7229472?s=460&v=4" />
+      <span class="subtitle">Ted</span>
     </div>
     <div class="item">
       <img src="~resources/avatars/default.jpg" />
