@@ -12,7 +12,7 @@
 
     <footer>
       <p>
-        Coded in {{ new Date().getFullYear() }} with lots of <i class="material-icons">favorite</i> by the <a href="https://github.com/hacksurrey/2018">@hacksurrey</a> team
+        Coded in {{ new Date().getFullYear() }} with lots of <i class="material-icons">favorite</i> by the <a href="https://github.com/hacksurrey/mk2">@hacksurrey</a> team
       </p>
     </footer>
   </div>
@@ -29,7 +29,7 @@ export default {
   data () {
     return {
       event: {
-        date: "17th - 18th November 2018",
+        date: "16th - 17th February 2019",
         location: "University of Surrey"
       }
     }

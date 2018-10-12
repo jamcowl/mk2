@@ -3,7 +3,7 @@
 <img width="350px" src="/resources/logo.svg?sanitize=true">
 <br><br>
 
-[![Build Status](https://img.shields.io/travis/hacksurrey/2018.svg?style=for-the-badge)](https://travis-ci.org/hacksurrey/2018) [![license](https://img.shields.io/github/license/hacksurrey/beta.svg?style=for-the-badge)](https://github.com/hacksurrey/beta/blob/master/LICENSE) [![GitHub top language](https://img.shields.io/github/languages/top/hacksurrey/beta.svg?style=for-the-badge)]() [![Twitter Follow](https://img.shields.io/twitter/follow/hacksurrey.svg?style=for-the-badge)](https://twitter.com/hacksurrey)
+[![Build Status](https://img.shields.io/travis/hacksurrey/mk2.svg?style=for-the-badge)](https://travis-ci.org/hacksurrey/mk2) [![license](https://img.shields.io/github/license/hacksurrey/mk2.svg?style=for-the-badge)](https://github.com/hacksurrey/mk2/blob/master/LICENSE) [![GitHub top language](https://img.shields.io/github/languages/top/hacksurrey/mk2.svg?style=for-the-badge)]() [![Twitter Follow](https://img.shields.io/twitter/follow/hacksurrey.svg?style=for-the-badge)](https://twitter.com/hacksurrey)
 
 </div>
 
@@ -15,7 +15,7 @@ Before playing around with this website you need to understand how everything fi
 ## Serving Files Locally (during Development)
 1. Clone this repository using git:
    ```
-   $ git clone https://github.com/hacksurrey/2018.git
+   $ git clone https://github.com/hacksurrey/mk2.git
    ```
 2. Install all Node dependencies using NPM (whilst I adore Yarn, I chose not to use it for this project):
    ```
