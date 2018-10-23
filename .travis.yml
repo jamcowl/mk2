@@ -10,7 +10,7 @@ script: npm run build
 before_deploy:
   - git add -f public/resources/*
 deploy:
-  fqdn: 2018.hacksurrey.uk
+  fqdn: mk2.hacksurrey.uk
   provider: pages
   local-dir: public
   skip-cleanup: true
