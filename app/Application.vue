@@ -29,7 +29,7 @@ export default {
   data () {
     return {
       event: {
-        date: "23rd - 24th February 2019",
+        date: "9th - 10th February 2019",
         location: "University of Surrey"
       }
     }
