@@ -30,7 +30,7 @@ export default {
         faqs: [
           {question: 'What exactly is this?', answer: 'HackSurrey Mk2 is a Hackathon at the University of Surrey: 150 students, 24 hours, what will <b>you</b> build?'},
           {question: 'Are tickets free?', answer: `Of course they are! Thanks to our lovely sponsors, HackSurrey Mk2 tickets are absolutely free!`},
-          {question: 'But when and where?', answer: 'HackSurrey Mk2 will take place on the 16th and 17th of February 2019 at the University of Surrey in Guildford.'},
+          {question: 'But when and where?', answer: 'HackSurrey Mk2 will take place on the 9th and 10th of February 2019 at the University of Surrey in Guildford.'},
           {question: `What if I can't code?`, answer: `Not a problem! Regardless of what you think of your technical ability, this will be a great opportunity to learn some new skills!`},
           {question: 'What should I bring?', answer: 'You should bring your laptop, charger, and phone. You must not forget to bring your <strong>student ID</strong>, and lots of motivation.'},
           {question: 'What about non-UK ?', answer: 'You are still more than welcome to join us! However, you should know that we do not offer travel reimbursements.'},
