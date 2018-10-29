@@ -1,7 +1,7 @@
 <template>
   <section>
     <div class="row">
-      <h1 class="title">Sponsors</h1>
+      <h1 class="title">Sponsors.</h1>
     </div>
     <div class="row center">
       <h1 class="title">TBA</h1>
