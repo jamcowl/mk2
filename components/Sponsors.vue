@@ -14,6 +14,7 @@
         <img src="~resources/sponsors/union.svg" />
       </a>
     </div>
+    <h1><a class="button" href="mailto:sponsor@hacksurrey.uk">Become a sponsor!</a></h1>
   </section>
 </template>
 
