@@ -1,10 +1,18 @@
 <template>
   <section>
-    <div class="row">
+    <!-- <div class="row">
       <h1 class="title">Sponsors.</h1>
     </div>
     <div class="row center">
       <h1 class="title">TBA</h1>
+    </div> -->
+    <div class="row">
+      <h1 class="title">Supporters.</h1>
+    </div>
+    <div class="row center">
+      <a class="logo" href="https://ussu.co.uk/">
+        <img src="~resources/sponsors/union.svg" />
+      </a>
     </div>
   </section>
 </template>

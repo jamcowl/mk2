@@ -4,6 +4,7 @@
       <img src="~resources/logo.svg" />
       <h1>{{ date }}</h1>
       <h1>{{ location }}</h1>
+      <h1><a class="button" href="https://ti.to/hacksurrey/mk2/">Pre-register now!</a></h1>
     </header>
 
     <slot/>
