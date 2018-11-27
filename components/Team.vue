@@ -5,11 +5,15 @@
     </div>
     <div class="item">
       <img src="https://avatars2.githubusercontent.com/u/4354770?s=460&v=4" />
-      <span class="subtitle">Dan</span>
+      <span class="subtitle"><a href="https://twitter.com/sdaniel55" title="@sdaniel55">Dan</a></span>
     </div>
     <div class="item">
       <img src="https://avatars1.githubusercontent.com/u/7229472?s=460&v=4" />
-      <span class="subtitle">Ted</span>
+      <span class="subtitle"><a href="https://twitter.com/theomessin" title="@theomessin">Ted</a></span>
+    </div>
+    <div class="item">
+      <img src="https://avatars1.githubusercontent.com/u/45294765?s=400&v=4" />
+      <span class="subtitle">Alex</span>
     </div>
     <div class="item">
       <img src="~resources/avatars/default.jpg" />
@@ -63,4 +67,6 @@ section
     background-color: #303036
     a
       color: #fcfcfc
+      font-weight: 300
+      text-decoration: underline
 </style>

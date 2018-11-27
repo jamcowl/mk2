@@ -1,11 +1,13 @@
 <template>
   <section>
-    <!-- <div class="row">
+    <div class="row">
       <h1 class="title">Sponsors.</h1>
     </div>
     <div class="row center">
-      <h1 class="title">TBA</h1>
-    </div> -->
+      <a class="logo" href="https://github.com">
+        <img src="~resources/sponsors/github.svg" />
+      </a>
+    </div>
     <div class="row">
       <h1 class="title">Supporters.</h1>
     </div>
