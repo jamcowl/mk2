@@ -25,4 +25,4 @@ Before playing around with this website you need to understand how everything fi
    ```
    npm run dev
    ```
-4. That's it! If everything has been done correctly, Node has now started a development server (usually on `localhost:8080`) and has also opened your browser to this location. Have fun and don't break anything!
+4. That's it! If everything has been done correctly, Node has now started a development server (usually on `localhost:8080`) and has also opened your browser to this location. Have fun and don't break anything! 🎉
