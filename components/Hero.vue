@@ -51,10 +51,12 @@ h1
   line-height: 1
   font-weight: 300
   text-align: center
+  font-size: 2.2em
 
 img
   width: 42vw
-  min-width: 400px
+  max-height: 20vh
+  min-width: 340px
   max-width: 850px
   margin-bottom: 20px
 </style>

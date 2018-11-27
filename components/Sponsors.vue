@@ -31,7 +31,8 @@ export default {
 section
   display: flex
   flex-wrap: wrap
-  padding: 1.5em 12em
+  min-width: 96%
+  padding: 1.5em 4em
   flex-direction: column
   justify-content: center
 
@@ -56,6 +57,8 @@ section
   padding: 0 1.5em
 
 img
+  width: 42vw
+  max-height: 70px
+  min-width: 200px
   max-width: 400px
-  max-height: 80px
 </style>
