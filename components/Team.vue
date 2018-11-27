@@ -33,8 +33,8 @@ export default {
 section
   display: flex
   min-width: 96%
-  padding: 1.5em 4em
-  flex-direction: row
+  padding: 1.5em 2em
+  flex-direction: column
   flex-wrap: wrap
   justify-content: center
 

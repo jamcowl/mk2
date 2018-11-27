@@ -32,9 +32,9 @@ section
   display: flex
   flex-wrap: wrap
   min-width: 96%
-  padding: 1.5em 4em
+  padding: 1.5em 2em
   flex-direction: column
-  justify-content: center
+  justify-content: left
 
 .row
   padding: .5em 1.5em
@@ -61,4 +61,8 @@ img
   max-height: 70px
   min-width: 200px
   max-width: 400px
+
+.button
+  font-size: 1.1rem
+  // font-size: 20px
 </style>

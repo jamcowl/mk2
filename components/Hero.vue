@@ -36,6 +36,7 @@ section
   align-items: center
   vertical-align: bottom
   justify-content: center
+  text-align: center
 
 .background
   z-index: 0
@@ -47,7 +48,6 @@ section
 h1
   margin: 0
   color: #FF3232
-  display: block
   line-height: 1
   font-weight: 300
   text-align: center
