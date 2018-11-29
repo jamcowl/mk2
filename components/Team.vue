@@ -17,6 +17,10 @@
         <span class="subtitle">Alex</span>
       </div>
       <div class="item">
+        <img src="https://avatars2.githubusercontent.com/u/45466951?s=460&v=4" />
+        <span class="subtitle">Samantha</span>
+      </div>
+      <div class="item">
         <img src="~resources/avatars/default.jpg" />
         <span class="subtitle">You?</span>
       </div>
