@@ -21,6 +21,10 @@
         <span class="subtitle">Samantha</span>
       </div>
       <div class="item">
+        <img src="https://avatars2.githubusercontent.com/u/33288730?s=400&v=4" />
+        <span class="subtitle">Kevin</span>
+      </div>
+      <div class="item">
         <img src="~resources/avatars/default.jpg" />
         <span class="subtitle">You?</span>
       </div>
