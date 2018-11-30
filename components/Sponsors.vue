@@ -12,8 +12,11 @@
       <h1 class="title">Supporters.</h1>
     </div>
     <div class="row center">
-      <a class="logo" href="https://ussu.co.uk/">
+      <a class="logo" href="https://ussu.co.uk">
         <img src="~resources/sponsors/union.svg" />
+      </a>
+      <a class="logo" href="http://stagradio.com">
+        <img src="~resources/sponsors/stagradio.svg" style="max-height: 80px" />
       </a>
     </div>
     <div class="row center">
