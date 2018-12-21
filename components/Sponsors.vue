@@ -12,11 +12,24 @@
       <h1 class="title">Supporters.</h1>
     </div>
     <div class="row center">
-      <a class="logo" href="https://ussu.co.uk">
-        <img src="~resources/sponsors/union.svg" />
+      <a class="logo" href="https://mlh.io">
+        <img src="~resources/sponsors/mlh.svg" />
       </a>
+      <a class="logo" href="https://jetbrains.com">
+        <img src="~resources/sponsors/jetbrains.svg" />
+      </a>
+    </div>
+    <div class="row center">
+      <a class="logo" href="https://gitkraken.com">
+        <img src="~resources/sponsors/gitkraken.svg" />
+      </a>
+    </div>
+    <div class="row center">
       <a class="logo" href="http://stagradio.com">
         <img src="~resources/sponsors/stagradio.svg" style="max-height: 80px" />
+      </a>
+      <a class="logo" href="https://ussu.co.uk">
+        <img src="~resources/sponsors/union.svg" />
       </a>
     </div>
     <div class="row center">
