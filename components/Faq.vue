@@ -34,7 +34,7 @@ export default {
           {question: 'But when and where?', answer: 'HackSurrey Mk2 will take place on the 9th and 10th of February 2019 at the <a href="https://goo.gl/maps/a85vhjCXA6K2">University of Surrey in Guildford</a>.'},
           {question: 'What should I bring?', answer: "You should bring your laptop, charger, and phone. You must not forget to bring your <strong>student ID</strong>, and lots of motivation. You'll be able to work overnight in the venue, so you might want to bring stuff like sleeping bags, toiletries, blanket, etc."},
           {question: `What if I can't code?`, answer: `Not a problem! Regardless of what you think of your technical ability, this will be a great opportunity to learn some new skills!`},
-          {question: 'What about non-UK ?', answer: 'You are still more than welcome to join us! However, you should know that we do not offer travel reimbursements.'},
+          {question: 'What about non-UK?', answer: 'You are still more than welcome to join us! However, you should know that we do not offer travel reimbursements.'},
           {question: 'How can I help?', answer: `<a href="mailto:contact@hacksurrey.uk">Be a Volunteer!</a> Volunteers can still participate and will receive extra goodies in exchange for their effort.`},
         ]
     }

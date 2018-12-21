@@ -11,6 +11,7 @@
     <sponsors />
 
     <footer>
+      <p><a href="http://mlh.io/code-of-conduct">Code of Conduct</a></p>
       <p>
         Coded in {{ new Date().getFullYear() }} with lots of <i class="material-icons">favorite</i> by the <a href="https://github.com/hacksurrey/mk2">@hacksurrey</a> team
       </p>
