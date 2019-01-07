@@ -23,6 +23,9 @@
       <a class="logo" href="https://gitkraken.com">
         <img src="~resources/sponsors/gitkraken.svg" />
       </a>
+      <a class="logo" href="http://hackp.ac/mlh-stickermule-hackathons">
+        <img src="~resources/sponsors/stickermule.svg" />
+      </a>
     </div>
     <div class="row center">
       <a class="logo" href="http://stagradio.com">
